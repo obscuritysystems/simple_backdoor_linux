@@ -3,7 +3,9 @@ To compile just run make from command line.
 WARNING I AM NOT RESPONSIBLE FOR THE STUPID SHIT YOU DO WITH THIS.
 
 
-This is meant for DC801 CTF, not for anything leaving this code running is dangerous.
+This is meant for DC801 CTF, not for anything else !!!! 
+
+Leaving this code running is dangerous.
 
 To compile this code you will need gcc and make.
 
