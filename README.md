@@ -40,7 +40,7 @@ Connected to 127.0.0.1.
 Escape character is '^]'.
 df -h
 Filesystem              Size  Used Avail Use% Mounted on
-/dev/mapper/Vadar-root   24G  6.2G   16G  28% /
+/dev/mapper/server-root   24G  6.2G   16G  28% /
 udev                    236M  8.0K  236M   1% /dev
 tmpfs                    99M  776K   98M   1% /run
 none                    5.0M     0  5.0M   0% /run/lock
